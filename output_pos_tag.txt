@@ -1,11 +1,9 @@
-My---Possessive pronoun
-name---Noun, singular or mass
+enter text:
+Wow! That doughnut is huge!
+Wow---Interjection
+('!', '.')
+That---Determiner
+doughnut---Noun, singular or mass
 is---Verb, 3rd person singular present
-Vinay---Proper noun, singular
-(',', ',')
-I---Personal pronoun
-am---Verb, non-3rd person singular present
-studying---Verb, gerund or present participle
-in---Preposition or subordinating conjunction
-VNRVJIET---Proper noun, singular
-('.', '.')
+huge---Adjective
+('!', '.')
