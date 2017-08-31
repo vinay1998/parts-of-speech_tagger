@@ -4,7 +4,9 @@ from nltk.tokenize import word_tokenize
 #nltk.download()--- used to download any required packages from nltk module during runtime
 #nltk.help.upenn_tagset(tag_code)---used to know about any tag_code i.e CC,CD,DT,EX...
 
-text='My name is Vinay, I am studying in VNRVJIET.'
+print("enter text:")
+text=input()
+print("")
 
 
 words=word_tokenize(text)#tokenize the given text into words
